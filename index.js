@@ -42,4 +42,8 @@ function calculatesFarePrice(pa1, pa2)
     return  (distance -400)*0.02;
     
   }
+  else 
+  {
+    return 25;
+  }
 }
