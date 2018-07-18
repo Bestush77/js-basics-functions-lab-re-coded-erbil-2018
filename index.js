@@ -1,2 +1,5 @@
 // Code your solution in this file!
-let distanceFromHqInBlocks = 1;
+function distanceFromHqInBlocks () 
+{
+  
+}
