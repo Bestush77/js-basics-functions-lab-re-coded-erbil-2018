@@ -32,11 +32,12 @@ function distanceTravelledInFeet(pa1, pa2)
 
 function calculatesFarePrice(pa1, pa2)
 {
+  let distance = distanceTravelledInFeet(pa1,pa2);
   if(pa1<pa2)
   {
   return 0; 
   }
-  else if ((distanceTravelledInFeet(pa1,pa2))<=2000&& (distanceTravelledInFeet(pa1,pa2))>= 400 )
+  else if (distance <=2000&& distance>= 400 )
   {
     return  (distanceTravelledInFeet(pa1,pa2) -400)*2;
     
