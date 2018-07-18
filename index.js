@@ -31,5 +31,7 @@ function distanceFromHqInFeet (feet)
   
 }
 
-distanceTravelledInFeet(pa1, pa2)
+function distanceTravelledInFeet(pa1, pa2)
+{
 return pa1+ pa2 +1289;
+}
