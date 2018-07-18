@@ -14,6 +14,6 @@ function distanceFromHqInBlocks (blocknumber)
 
 function distanceFromHqInFeet (feet) 
 {
-  return feet*8;
+  return feet+221;
   
 }
