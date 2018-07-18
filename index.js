@@ -38,7 +38,7 @@ function calculatesFarePrice(pa1, pa2)
   }
   else if ((distanceTravelledInFeet(pa1,pa2))<=2000&& (distanceTravelledInFeet(pa1,pa2))>= 400 )
   {
-    return  distanceTravelledInFeet(pa1,pa2) *2
+    return  distanceTravelledInFeet(pa1,pa2) *2;
     
   }
 }
