@@ -2,7 +2,11 @@
 function distanceFromHqInBlocks (blocknumber) 
 {
   if (blocknumber > 42)
-  return blocknumber - 42;
- 
+  {
+    return blocknumber - 42;
+  }
+ else {
+   return 42- blocknumber;
+ }
   
 }
