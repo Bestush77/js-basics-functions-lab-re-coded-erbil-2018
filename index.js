@@ -46,5 +46,9 @@ function calculatesFarePrice(pa1, pa2)
     return 25;
   }
     
-  
-}
+  else 
+  {
+  return "cannot travel that far";
+  }
+    
+  }
