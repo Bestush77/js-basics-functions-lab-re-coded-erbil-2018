@@ -14,20 +14,7 @@ function distanceFromHqInBlocks (blocknumber)
 
 function distanceFromHqInFeet (feet) 
 {
-  if(feet <= 43&& feet >34)
-  {
-  return feet + 221;
-  }
-  
-  else if(feet>=43)
-  {
-    return feet + 2062;
-  }
-  
-  else 
-  {
-    return feet+2078;
-  }
+ return distanceFromHqInBlocks(feet)* 264;
   
 }
 
