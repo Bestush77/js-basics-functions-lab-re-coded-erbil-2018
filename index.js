@@ -20,5 +20,5 @@ function distanceFromHqInFeet (feet)
 
 function distanceTravelledInFeet(pa1, pa2)
 {
-return pa1 + pa2 + 1229;
+return pa1 - pa2 *264 ;
 }
