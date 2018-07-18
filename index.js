@@ -1,5 +1,8 @@
 // Code your solution in this file!
 function distanceFromHqInBlocks () 
 {
-  return 8;
+  if (blocknumber > 42)
+  return blocknumber - 42;
+ 
+  
 }
