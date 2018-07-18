@@ -21,6 +21,6 @@ function distanceFromHqInFeet (feet)
   
   else if(feet>=222)
   {
-    return feet + 
+    return feet + 2062;
   }
 }
