@@ -32,7 +32,8 @@ function distanceTravelledInFeet(pa1, pa2)
 
 function calculatesFarePrice(pa1, pa2)
 {
-  if
-  return 
-  
+  if(pa1<pa2)
+  {
+  return 0; 
+  }
 }
