@@ -1,2 +1,2 @@
 // Code your solution in this file!
-let distanceFromHqInBlocks = "2 blocks";
+let distanceFromHqInBlocks = "43";
