@@ -10,3 +10,10 @@ function distanceFromHqInBlocks (blocknumber)
  }
   
 }
+
+
+function distanceFromHqInFeet (feet) 
+{
+  return feet*8;
+  
+}
