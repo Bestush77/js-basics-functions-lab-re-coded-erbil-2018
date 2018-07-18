@@ -36,9 +36,9 @@ function calculatesFarePrice(pa1, pa2)
   {
   return 0; 
   }
-  else if (pa1,pa2)
+  else if ((distanceTravelledInFeet(pa1,pa2)))
   {
-    return distanceTravelledInFeet(pa1,pa2) 
+    return  
     
   }
 }
