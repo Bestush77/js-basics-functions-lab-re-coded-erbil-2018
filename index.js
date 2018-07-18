@@ -29,3 +29,10 @@ function distanceTravelledInFeet(pa1, pa2)
     return (pa1-pa2)*264;
   }   
 }
+
+function calculatesFarePrice(pa1, pa2)
+{
+  if
+  return 
+  
+}
