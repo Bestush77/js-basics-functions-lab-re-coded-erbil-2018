@@ -36,4 +36,5 @@ function calculatesFarePrice(pa1, pa2)
   {
   return 0; 
   }
+  else if ()
 }
