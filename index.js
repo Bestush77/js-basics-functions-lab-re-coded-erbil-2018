@@ -19,8 +19,9 @@ function distanceFromHqInFeet (feet)
   return feet + 221;
   }
   
-  else if(feet>=43)
+  else if(feet>=43 && feet <= 255)
   {
     return feet + 2062;
   }
+  
 }
