@@ -26,7 +26,7 @@ function distanceFromHqInFeet (feet)
   
   else 
   {
-    feet+2078;
+    return feet+2078;
   }
   
 }
